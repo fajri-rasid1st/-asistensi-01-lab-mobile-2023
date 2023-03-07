@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity Assignment 2</string>
+    <string name="title">Hitung volume balok</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+
+    <string-array name="bangun_ruang">
+        <item>Bola</item>
+        <item>Kerucut</item>
+        <item>Balok</item>
+    </string-array>
+</resources>
