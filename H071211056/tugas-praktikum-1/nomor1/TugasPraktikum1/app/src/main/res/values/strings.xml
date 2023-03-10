@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TugasPraktikum1</string>
+    <string name="muhammad_fikri">Muhammad Fikri</string>
+    <string name="unhas_logo">logo unhas</string>
+    <string name="NIM">H071211056</string>
+    <string name="total_repository">567</string>
+    <string name="total_followers">234</string>
+    <string name="total_following">123</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="about">About</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet diam scelerisque, finibus ligula vitae, dapibus est. Etiam quis nunc a nibh tempor finibus. Vivamus ligula lorem, lobortis sed nibh in, lacinia porta est. Vivamus feugiat dolor eget finibus venenatis. Maecenas ultrices pharetra mi, vel cursus metus elementum</string>
+</resources>
