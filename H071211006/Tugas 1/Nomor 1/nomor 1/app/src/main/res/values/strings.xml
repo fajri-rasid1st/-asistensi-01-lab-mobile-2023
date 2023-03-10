@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas 1</string>
+    <string name="name">Nur Hikmah</string>
+    <string name="NIM">H071211006</string>
+    <string name="jumlahrepo">112</string>
+    <string name="jumlahfollowers">570</string>
+    <string name="jumlahfollowing">1</string>
+    <string name="about">About</string>
+    <string name="repo">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="lorem">Hi!, My name is Nur Hikmah, you can call me Hikma, Imma or Mima. I was born in Pinrang 12 Desember 2003. I used to live in Pinrang, but now I live in Makassar because I continue my study in Hasanuddin University. I like spicy food but sometimes I also want to eat sweetmeat but I dont really like it because it makes me sick.</string>
+</resources>
