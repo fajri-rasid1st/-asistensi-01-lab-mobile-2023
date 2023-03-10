@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="pilih">Pilih Bangun Ruang :</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">HASIL</string>
+    <string name="panjang">Panjang</string>
+    <string name="jari_jari">Jari - Jari</string>
+
+    // menampilkan teks item di spinner
+    <string-array name="bangun_ruang">
+        <item>Bola</item>
+        <item>Kerucut</item>
+        <item>Balok</item>
+    </string-array>
+</resources>
