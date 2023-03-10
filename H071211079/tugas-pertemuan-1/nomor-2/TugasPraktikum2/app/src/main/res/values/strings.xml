@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas Praktikum 2</string>
+    <string name="button">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="jari_jari">Jari - jari</string>
+    <string name="text1">Pilih bangun ruang:</string>
+</resources>
