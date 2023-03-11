@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tprak1No2</string>
+    <string name="jari">Jari-jari</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string-array name="ruang">
+        <item>Balok</item>
+        <item>Kerucut</item>
+        <item>Bola</item>
+    </string-array>
+    <string name="pilihan">Pilih bangun ruang: </string>
+</resources>
