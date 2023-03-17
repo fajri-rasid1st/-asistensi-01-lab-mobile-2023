@@ -1,12 +1,12 @@
-#Fri Mar 17 16:56:44 SGT 2023
+#Fri Mar 17 20:35:04 SGT 2023
 path.3=1/classes.dex
 path.2=10/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=C\:\\Users\\ASUS\\AndroidStudioProjects\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.2=C\:\\Users\\ASUS\\AndroidStudioProjects\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.1=C\:\\Users\\ASUS\\AndroidStudioProjects\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.3=C\:\\Data Emilia\\AAA UNHAS\\SEMESTER 4\\asistensi-01-lab-mobile-2023\\H071211009\\tugas-praktikum-2\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=C\:\\Data Emilia\\AAA UNHAS\\SEMESTER 4\\asistensi-01-lab-mobile-2023\\H071211009\\tugas-praktikum-2\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.1=C\:\\Data Emilia\\AAA UNHAS\\SEMESTER 4\\asistensi-01-lab-mobile-2023\\H071211009\\tugas-praktikum-2\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Data Emilia\\AAA UNHAS\\SEMESTER 4\\asistensi-01-lab-mobile-2023\\H071211009\\tugas-praktikum-2\\Assignment3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

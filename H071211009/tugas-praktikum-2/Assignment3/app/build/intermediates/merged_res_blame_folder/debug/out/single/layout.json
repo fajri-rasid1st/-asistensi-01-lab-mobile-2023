@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.assignment3.app-mergeDebugResources-28:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.assignment3.app-main-31:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "com.example.assignment3.app-mergeDebugResources-28:/layout/activity_main.xml",
-        "source": "com.example.assignment3.app-main-31:/layout/activity_main.xml"
+        "merged": "com.example.assignment3.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.assignment3.app-main-7:/layout/activity_main.xml"
     }
 ]
