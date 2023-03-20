@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="2"
+    android:background="#A6A3A3"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <EditText
+            android:text="0"
+            android:id="@+id/operasi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:padding="20sp"
+            android:textSize="30sp"
+            android:inputType="number"/>
+
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="12dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnAc"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/warnaAc"
+            android:text="@string/ac"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btnDel"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:backgroundTint="@color/warnaAc"
+            android:text="@string/del"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="199dp"
+            tools:layout_editor_absoluteY="493dp" />
+
+        <Button
+            android:id="@+id/btnBagi"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:backgroundTint="@color/orange"
+            android:text="@string/tandaBagi"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="493dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn7"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn7"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btn8"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn8"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btn9"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn9"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btnKali"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_weight="4"
+            android:backgroundTint="@color/orange"
+            android:text="@string/tandaKali"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn4"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn4"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btn5"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn5"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btn6"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn6"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btnKurang"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_weight="4"
+            android:backgroundTint="@color/orange"
+            android:text="@string/tandaKurang"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn1"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn2"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btn3"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn3"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btnTambah"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_weight="4"
+            android:backgroundTint="@color/orange"
+            android:text="@string/tandaTambah"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn0"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_marginRight="2pt"
+            android:layout_weight="4"
+            android:backgroundTint="@color/colorNumber"
+            android:text="@string/btn0"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+        <Button
+            android:id="@+id/btnHasil"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_weight="4"
+            android:backgroundTint="@color/orange"
+            android:text="@string/tandaResult"
+            tools:layout_editor_absoluteX="101dp"
+            tools:layout_editor_absoluteY="552dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
