@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_ic_correct.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\ic_correct.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_ic_sad.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\ic_sad.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_ic_wrong.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\ic_wrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_draw.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\draw.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_wave_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\wave_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_pp.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\pp.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_ic_neutral.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\ic_neutral.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_ic_smile.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\ic_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_wave_question.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\wave_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_backgroud.jpeg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\backgroud.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tugas3_quizapp-merged_res-30:/layout_activity_result.xml.flat",
+        "source": "com.example.tugas3_quizapp-main-32:/layout/activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_wave.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.tugas3_quizapp-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
