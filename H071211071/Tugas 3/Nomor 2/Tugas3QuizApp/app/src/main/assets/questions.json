@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "Kenapa Pujas Makan Sofyan dan Daud menjadi Sofyan Pujas",
+      "answer1": "A)Karena Pujas Lapar",
+      "answer2": "B)Karena Toh anu kau bela",
+      "answer3": "C)Balla Lompoa",
+      "answer4": "D)Karena Erwin dan Pujas Saling Menyayangi",
+      "correct": "A)A"
+    },
+    {
+      "question": "1 + 1 = ?? ",
+      "answer1": "A)7",
+      "answer2": "B)2",
+      "answer3": "C)0",
+      "answer4": "D)9",
+      "correct": "B)B"
+    },
+    {
+      "question": " Kapan RRQ juara World Champion",
+      "answer1": "A)Kapan kapanpi",
+      "answer2": "B)Nantipi",
+      "answer3": "C)Sabiji",
+      "answer4": "D)Iyah",
+      "correct": "C)C"
+    },
+    {
+      "question": "Kenapa beng ada manusia ?",
+      "answer1": "A)iyopaeng",
+      "answer2": "B)Karena toh",
+      "answer3": "C)Reza Love Hasan",
+      "answer4": "D)Karena Hawa Makan Buah Khuldi",
+      "correct": "D)D"
+    },
+    {
+      "question": " 10 x 10 = ??",
+      "answer1": "A)100",
+      "answer2": "B)10",
+      "answer3": "C)0",
+      "answer4": "D)1",
+      "correct": "E)A"
+    }
+  ]
+}
