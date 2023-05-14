@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxhdpi_profile.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable_doffy.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable\\doffy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xhdpi_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable_baseline_account_box_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable\\baseline_account_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\layout_fragment_add.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxxhdpi_profile.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxxhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable_home_.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable\\home_.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable\\baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-mdpi_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\layout_item_list.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-hdpi_profile.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-hdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-hdpi_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-hdpi\\home.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-mdpi_profile.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-26:\\mipmap-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-28:\\mipmap-xxhdpi\\home.png"
+    }
+]

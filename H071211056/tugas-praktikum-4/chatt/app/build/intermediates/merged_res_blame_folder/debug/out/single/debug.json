@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_braun.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\braun.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_erwinsmit.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\erwinsmit.png"
+    },
+    {
+        "merged": "com.example.chatt.app-merged_res-29:/layout_activity_chat.xml.flat",
+        "source": "com.example.chatt.app-main-31:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_historia.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\historia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_eren.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\eren.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_levi.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\levi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_shasa.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\shasa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_mikasa.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\mikasa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_sdreren.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\sdreren.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\layout_activity_profil.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\layout\\activity_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_jean.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\jean.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\drawable_hajji.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\drawable\\hajji.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.chatt.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    }
+]
