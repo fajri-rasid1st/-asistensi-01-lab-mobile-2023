@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/parentLayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#181E29"
+        android:id="@+id/cardView">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/card"
+            app:cardCornerRadius="60dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp">
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/eren"/>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/name1"
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:text="eren"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="100dp"/>
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/time1"
+            android:layout_width="88dp"
+            android:layout_height="24dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="310dp"
+            android:text="21.00"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/chat1"
+            android:layout_width="88dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="40dp"
+            android:text="How Are You"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/divider1"
+            android:layout_width="match_parent"
+            android:layout_height="24dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="60dp"
+            android:text="______________________________________"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</RelativeLayout>
