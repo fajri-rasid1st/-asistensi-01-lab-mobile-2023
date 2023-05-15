@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/topBar"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            app:cardBackgroundColor="#1B9C85">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="20dp"
+                android:fontFamily="casual"
+                android:text="Upload"
+                android:textColor="@color/white"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/topBar"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="20dp"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="3dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1B9C85"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/ivAddImg"
+                    android:layout_width="match_parent"
+                    android:layout_height="280dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/image" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/caption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/img"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="20dp"
+            app:cardCornerRadius="15dp"
+            android:backgroundTint="#1B9C85"
+            app:cardElevation="3dp">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="100dp">
+
+                <EditText
+                    android:id="@+id/etCaption"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:backgroundTint="@android:color/transparent"
+                    android:fontFamily="casual"
+                    android:hint="Write a caption..."
+                    android:minHeight="48dp"
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </ScrollView>
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/btnUpload"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_below="@id/caption"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="40dp"
+            android:backgroundTint="#1B9C85"
+            android:text="Upload" />
+
+    </RelativeLayout>
+
+</FrameLayout>
