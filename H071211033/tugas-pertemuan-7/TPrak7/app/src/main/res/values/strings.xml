@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TPrak7</string>
+    <string name="name">Name</string>
+    <string name="email">email@email.email</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">Retry</string>
+</resources>
