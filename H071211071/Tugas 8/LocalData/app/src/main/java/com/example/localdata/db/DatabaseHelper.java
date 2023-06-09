@@ -72,10 +72,10 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         if (cursor != null)
             cursor.moveToFirst();
         Person person = new Person(
-                cursor.getString(cursor.getColumnIndex(Person.COLUMN_NAME)),
-                cursor.getString(cursor.getColumnIndex(Person.COLUMN_TITLE)),
-                cursor.getInt(cursor.getColumnIndex(Person.COLUMN_ID)),
-                cursor.getString(cursor.getColumnIndex(Person.COLUMN_TIME))
+                cursor.getString(cursor.getColumnIndexOrThrow(Person.COLUMN_NAME)),
+                cursor.getString(cursor.getColumnIndexOrThrow(Person.COLUMN_TITLE)),
+                cursor.getInt(cursor.getColumnIndexOrThrow(Person.COLUMN_ID)),
+                cursor.getString(cursor.getColumnIndexOrThrow(Person.COLUMN_TIME))
         );
         cursor.close();
         return person;
@@ -89,10 +89,10 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         if (cursor.moveToFirst()) {
             do {
                 Person person1 = new Person();
-                person1.setId(cursor.getInt(cursor.getColumnIndex(Person.COLUMN_ID)));
-                person1.setName(cursor.getString(cursor.getColumnIndex(Person.COLUMN_NAME)));
-                person1.setTitle(cursor.getString(cursor.getColumnIndex(Person.COLUMN_TITLE)));
-                person1.setCreated_at(cursor.getString(cursor.getColumnIndex(Person.COLUMN_TIME)));
+                person1.setId(cursor.getInt(cursor.getColumnIndexOrThrow(Person.COLUMN_ID)));
+                person1.setName(cursor.getString(cursor.getColumnIndexOrThrow(Person.COLUMN_NAME)));
+                person1.setTitle(cursor.getString(cursor.getColumnIndexOrThrow(Person.COLUMN_TITLE)));
+                person1.setCreated_at(cursor.getString(cursor.getColumnIndexOrThrow(Person.COLUMN_TIME)));
                 person.add(person1);
             } while (cursor.moveToNext());
         }
@@ -107,6 +107,11 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
         values.put(Person.COLUMN_NAME, person.getName());
         values.put(Person.COLUMN_TITLE, person.getTitle());
+
+        Date date = new Date();
+        SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
+        String strDate = formatter.format(date);
+        values.put(Person.COLUMN_TIME, strDate);
 
         return db.update(Person.TABLE_NAME, values, Person.COLUMN_ID + "=?",
                 new String[]{String.valueOf(person.getId())});

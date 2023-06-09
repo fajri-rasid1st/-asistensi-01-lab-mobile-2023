@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
             titlePerson.setText(person.getTitle());
         }
 
-        alerDialogBuilder.setCancelable(false)
+        alerDialogBuilder.setCancelable(true)
                 .setPositiveButton(isUpdated ? "Update" : "Save", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
                                 }
                             }
                         }
-                );
+                ).setOnCancelListener(dialogInterface -> dialogInterface.dismiss());
 
         final AlertDialog alertDialog = alerDialogBuilder.create();
         alertDialog.show();
