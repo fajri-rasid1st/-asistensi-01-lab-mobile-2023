@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/frame_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:background="#999999"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/homebutton"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="13dp"
+            android:src="@drawable/home" />
+
+        <ImageView
+            android:id="@+id/addbutton"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toRightOf="@+id/homebutton"
+            android:src="@drawable/plus" />
+
+        <ImageView
+            android:id="@+id/personbutton"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toRightOf="@+id/addbutton"
+            android:src="@drawable/user" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
