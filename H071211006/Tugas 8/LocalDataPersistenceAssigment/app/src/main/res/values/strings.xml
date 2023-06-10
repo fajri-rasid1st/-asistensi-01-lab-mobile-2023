@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Local Data Persistence Assignment</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+</resources>
